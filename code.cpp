@@ -419,6 +419,7 @@ void deletefriend()
 }
 int main()
 {
+	
 	int l=0,choice;
 	top=NULL;
 	top1=NULL;
